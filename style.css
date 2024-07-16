@@ -1,5 +1,5 @@
 body {
-    background: #eeefed;
+    background: #c9b7c4;
 }
 
 a {
@@ -31,24 +31,62 @@ p {
     margin-bottom: 40px;
 }
 
-.custom-btn {
+.custom-btn{
     width: 130px;
     height: 40px;
-    color: #000;
+    color: rgb(240, 250, 246);            
     border-radius: 5px;
     padding: 10px 25px;
     font-family: 'Lato', sans-serif;
-    font-weight: 500;
+    font-weight: 800;
     background: transparent;
+    display: block;
     cursor: pointer;
     transition: all 0.3s ease;
     position: relative;
-    display: block;
-    margin: 0 auto 20px; /* Center and add margin to stack vertically */
+    
+    margin: 0 auto 25px; /* Center and add margin to stack vertically */
     box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5),
         7px 7px 20px 0px rgba(0, 0, 0, .1),
         4px 4px 5px 0px rgba(0, 0, 0, .1);
     outline: none;
+    
 }
 
 /* Add your custom styles for btn-1, btn-2, and btn-3 */
+
+.btn-1{
+    height: 80px;
+    width: 20%;
+    background-color: rgb(148, 188, 145);
+    border: rgb(235, 241, 235);
+    border-radius: 50px;
+}
+.btn-1:hover {
+    background: rgb(246, 26, 6);
+
+    }
+
+.btn-2{
+    height: 80px;
+    width: 20%;
+    background-color: rgb(155, 21, 135);
+    border: rgb(235, 241, 235);
+    border-radius: 50px;
+}
+.btn-2:hover {
+    background: rgb(14, 170, 201);
+    border: rgb(139, 216, 175);
+    border-radius: 50px;
+    }
+
+.btn-3{
+    height: 80px;
+    width: 20%;
+    background-color: rgb(12, 198, 244);
+    border: rgb(235, 241, 235);
+    border-radius: 50px;
+    }
+.btn-3:hover {
+    background: rgb(98, 14, 201);      
+    }
