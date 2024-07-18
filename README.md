@@ -25,7 +25,7 @@ By completing this project, you will learn to:
 
 3. **Prepare Your Repository**: 
     - Save all changes and update your GitHub repository with the final versions of all files.
-    - Include a `README.md` file that outlines the project, your design choices, and any notes on challenges you faced or features you're particularly proud of.
+    - Include a `README.md` file (link: https://github.com/NthabisengMash/NthabisengMashalane.git) that outlines the project, your design choices, and any notes on challenges you faced or features you're particularly proud of.
     - Ensure your repository is set to public so it can be accessed by your code coach.
 
 4. **Submit on LMS**:
